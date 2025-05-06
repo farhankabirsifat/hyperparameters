@@ -17,10 +17,10 @@ cams = {
     "West":  cv2.VideoCapture(3)
 }
 
-# Optional: Reduce resolution
-for cam in cams.values():
-    cam.set(cv2.CAP_PROP_FRAME_WIDTH, 320)
-    cam.set(cv2.CAP_PROP_FRAME_HEIGHT, 240)
+# # Optional: Reduce resolution
+# for cam in cams.values():
+#     cam.set(cv2.CAP_PROP_FRAME_WIDTH, 320)
+#     cam.set(cv2.CAP_PROP_FRAME_HEIGHT, 240)
 
 ROI = (200, 100, 500, 400)
 step = 0
