@@ -54,3 +54,11 @@ Our system provides a low-cost, AI-driven solution by:
 ## 🖼️ System Simulation
 
 ![Traffic Simulation](assets/simulation.jpg)
+
+## 🖼️ Vehicle Detection Using OpenCV
+
+![Traffic Simulation](assets/open_cv.jpg)
+
+## 🖼️ Demo Project Snap
+
+![Traffic Simulation](assets/demo_project.jpg)
