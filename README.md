@@ -61,4 +61,4 @@ Our system provides a low-cost, AI-driven solution by:
 
 ## 🖼️ Demo Project Snap
 
-![Traffic Simulation](assets/demo%20project.jpg)
+![Traffic Simulation](assets/demo_project.jpg)
