@@ -51,8 +51,6 @@ Our system provides a low-cost, AI-driven solution by:
 - Jumper wires and breadboard
 - Webcam or IP camera
 
-### 🧠 Software Setup
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/farhankabirsifat/hyperparameters.git
-   cd ai-traffic-light-system
+## 🖼️ System Simulation
+
+![Traffic Simulation](assets/simulation.jpg)
