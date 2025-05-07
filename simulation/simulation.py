@@ -472,21 +472,7 @@ def generateVehicles():
         time.sleep(0.75)
 
 
-def simulationTime():
-    global timeElapsed, simTime
-    while (True):
-        timeElapsed += 1
-        time.sleep(1)
-        if (timeElapsed == simTime):
-            totalVehicles = 0
-            print('Lane-wise Vehicle Counts')
-            for i in range(noOfSignals):
-                print('Lane', i + 1, ':', vehicles[directionNumbers[i]]['crossed'])
-                totalVehicles += vehicles[directionNumbers[i]]['crossed']
-            print('Total vehicles passed: ', totalVehicles)
-            print('Total time passed: ', timeElapsed)
-            print('No. of vehicles passed per unit time: ', (float(totalVehicles) / float(timeElapsed)))
-            os._exit(1)
+# abir
 
 
 class Main:
